@@ -22,4 +22,4 @@ N Ordens de Serviços podem ter N peças;
 Uma ordem de serviço pode ter uma forma de pagamento;
 Um serviço pode ter uma tabela de preço.
 
-<img href="" alt="Modelo Conceitual Oficina Mecanica">
+<img href="https://github.com/fabio-leandro/desafio-bd-dio-oficina/blob/main/oficina.png" alt="Modelo Conceitual Oficina Mecanica">
